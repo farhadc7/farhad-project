@@ -1,0 +1,1571 @@
+1595563634395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileOQAIuS"
+1595563638250	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595563639372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595563639372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595563639372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595563639372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595563649315	Marionette	INFO	Listening on port 53430
+1595563649814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 2616, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1595646374237	Marionette	INFO	Stopped listening on port 53430
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+etworkStatus
+1595563676446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595563676446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595563676446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595563676446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595563680318	Marionette	INFO	Listening on port 53525
+1595563680702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595646411874	Marionette	INFO	Stopped listening on port 53525
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+on.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595563739996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595563739996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595563739996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595563739996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1595563747568	Marionette	INFO	Listening on port 53653
+1595563747601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 12980, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1595646411677	Marionette	INFO	Stopped listening on port 53653
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tworkStatus
+1595564294584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595564294584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595564294584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595564294584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595564296478	Marionette	INFO	Listening on port 54298
+1595564299736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595564325501	Marionette	INFO	Stopped listening on port 54298
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595679617418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileJmFw2b"
+1595679620071	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595679620958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595679620958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595679620958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595679620959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595679623989	Marionette	INFO	Listening on port 64778
+1595679624025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595679842500	Marionette	INFO	Stopped listening on port 64778
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595679980732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileb6vrrm"
+1595679981198	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595679981922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595679981922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595679981922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595679981922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595679984585	Marionette	INFO	Listening on port 65192
+1595679985045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595680840895	Marionette	INFO	Stopped listening on port 65192
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\farhad\\AppData\\Local\\Temp\\rust_mozprofileoC3jBE"
+1595680816437	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595680817279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595680817279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595680817279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595680817279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595680819515	Marionette	INFO	Listening on port 49260
+1595680819631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595680844652	Marionette	INFO	Stopped listening on port 49260
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\farhad\\AppData\\Local\\Temp\\rust_mozprofile8l6BmD"
+1595680820719	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595680821455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595680821455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595680821456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595680821456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595680824032	Marionette	INFO	Listening on port 49288
+1595680824042	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8204, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1595680844535	Marionette	INFO	Stopped listening on port 49288
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+etworkStatus
+1595680829593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595680829593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595680829594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595680829594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595680834270	Marionette	INFO	Listening on port 49326
+1595680834454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595680844544	Marionette	INFO	Stopped listening on port 49326
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 4608, Gecko_IOThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595680844740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595680844741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595680844741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595680844741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595680848086	Marionette	INFO	Listening on port 49367
+1595680848181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595680867071	Marionette	INFO	Stopped listening on port 49367
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\farhad\\AppData\\Local\\Temp\\rust_mozprofileBoL307"
+1595680850826	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595680852378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595680852378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595680852378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595680852378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595680855946	Marionette	INFO	Listening on port 49451
+1595680856385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1595680867071	Marionette	INFO	Stopped listening on port 49451
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+xtension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595680858876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595680858876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595680858876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595680858876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11112, Gecko_IOThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+1595680939851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileoe5yOp"
+1595680940343	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595680941224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595680941225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595680941225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595680941225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595680944039	Marionette	INFO	Listening on port 49554
+1595680944169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595681308480	Marionette	INFO	Stopped listening on port 49554
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595681621060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileADZ4a1"
+1595681621652	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595681622518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595681622518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595681622518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595681622518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595681625361	Marionette	INFO	Listening on port 50135
+1595681625418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595681700745	Marionette	INFO	Stopped listening on port 50135
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14740, Gecko_IOThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+8	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595681661378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595681661379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595681661379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595681664605	Marionette	INFO	Listening on port 50178
+1595681664984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595681700701	Marionette	INFO	Stopped listening on port 50178
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofilebR3WYd"
+1595681666326	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595681667798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595681667798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595681667798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595681667798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595681672140	Marionette	INFO	Listening on port 50207
+1595681672212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595681700720	Marionette	INFO	Stopped listening on port 50207
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595681723997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileNuZuKi"
+1595681725770	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595681726678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595681726678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595681726678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595681726678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595681729586	Marionette	INFO	Listening on port 50307
+1595681730003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595681804816	Marionette	INFO	Stopped listening on port 50307
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofilenGTa6w"
+1595681789822	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595681790712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595681790712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595681790712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595681790712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595681794297	Marionette	INFO	Listening on port 50394
+1595681794713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595681802116	Marionette	INFO	Stopped listening on port 50394
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595681888223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofilemiAKc5"
+1595681888784	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595681889669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595681889670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595681889670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595681889670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595681892735	Marionette	INFO	Listening on port 50557
+1595681893172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1847: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1847: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1847: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1847: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595701028759	Marionette	INFO	Stopped listening on port 50557
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595779617208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileh5DSnR"
+1595779622319	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595779624336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595779624336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595779624337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595779624337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595779637851	Marionette	INFO	Listening on port 49867
+1595779638220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1595779935149	Marionette	INFO	Stopped listening on port 49867
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+mission: networkStatus
+1595779926004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595779926004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595779926004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595779926004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595779928456	Marionette	INFO	Listening on port 50125
+1595779928674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+[Parent 1988, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:119:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:439:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:314:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:119:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:439:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:314:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:119:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:439:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:314:22
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1595781404451	Marionette	INFO	Stopped listening on port 50427
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\farhad\\AppData\\Local\\Temp\\rust_mozprofileP2QNa4"
+1595781123002	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595781123803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595781123803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595781123803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595781123803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595781126190	Marionette	INFO	Listening on port 51027
+1595781126361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1595781404123	Marionette	INFO	Stopped listening on port 51027
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595781422215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofilegzbDY3"
+1595781424446	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595781425278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595781425278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595781425278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595781425278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595781427964	Marionette	INFO	Listening on port 51164
+1595781428221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595781731538	Marionette	INFO	Stopped listening on port 51164
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595781738890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileFeVPly"
+1595781739487	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595781740254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595781740254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595781740254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595781740254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595781742831	Marionette	INFO	Listening on port 51338
+1595781743245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595781926762	Marionette	INFO	Stopped listening on port 51338
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595781948513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofilePLLfor"
+1595781948992	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595781949802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595781949802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595781949802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595781949802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595781952403	Marionette	INFO	Listening on port 51460
+1595781952833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1595783591817	Marionette	INFO	Stopped listening on port 51460
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+on.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595782409397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595782409398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595782409398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595782409398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595782411789	Marionette	INFO	Listening on port 51555
+1595782412152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595782497327	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1595783591537	Marionette	INFO	Stopped listening on port 51555
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595783609675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileKL7U6Q"
+1595783610778	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595783611577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595783611577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595783611577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595783611577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595783613820	Marionette	INFO	Listening on port 51754
+1595783613994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595783656776	Marionette	INFO	Stopped listening on port 51754
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595783896659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofilevcSAOb"
+1595783897103	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595783897825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595783897825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595783897826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595783897826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595783900416	Marionette	INFO	Listening on port 51850
+1595783900463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595784463374	Marionette	INFO	Stopped listening on port 51850
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595784470627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileReD12i"
+1595784471098	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595784471816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595784471817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595784471817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595784471817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595784474265	Marionette	INFO	Listening on port 51949
+1595784474439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595784569600	Marionette	INFO	Stopped listening on port 51949
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595784579315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileCInzRQ"
+1595784579786	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595784580495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595784580495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595784580495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595784580495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595784582827	Marionette	INFO	Listening on port 52016
+1595784583115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595784651147	Marionette	INFO	Stopped listening on port 52016
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595786872176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileJ7hCfQ"
+1595786872633	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595786873443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595786873443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595786873444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595786873444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595786876083	Marionette	INFO	Listening on port 52261
+1595786876486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 68: Error: Connection closed, pending request to server0.conn0.child2/domnode250, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:232:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:94:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:778:14
+
+1595787422236	Marionette	INFO	Stopped listening on port 52261
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595787444422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileCPJ1lZ"
+1595787445285	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595787446117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595787446117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595787446117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595787446118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595787448921	Marionette	INFO	Listening on port 52384
+1595787449329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595787553686	Marionette	INFO	Stopped listening on port 52384
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595787622647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileIH1Gj7"
+1595787623212	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595787624213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595787624213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595787624213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595787624214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595787626895	Marionette	INFO	Listening on port 52527
+1595787626952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595792348893	Marionette	INFO	Stopped listening on port 52527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\farhad\\AppData\\Local\\Temp\\rust_mozprofilegclRWh"
+1595791979870	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595791980663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595791980663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595791980663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595791980664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595791982974	Marionette	INFO	Listening on port 53718
+1595791983294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1595792348750	Marionette	INFO	Stopped listening on port 53718
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595792146774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595792146774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595792146774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595792149222	Marionette	INFO	Listening on port 53810
+1595792149572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595792348719	Marionette	INFO	Stopped listening on port 53810
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5352, Gecko_IOThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+1595866595769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofilegX3opQ"
+1595866598221	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595866599624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595866599624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595866599624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595866599624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1595866604790	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+makeAddonVisible@XPIDatabase.jsm:2348:10
+addToDatabase@XPIDatabase.jsm:2275:12
+install@XPIInstall.jsm:4320:27
+_activateAddon@XPIInstall.jsm:4347:7
+1595866604791	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+addToDatabase@XPIDatabase.jsm:2278:10
+install@XPIInstall.jsm:4320:27
+_activateAddon@XPIInstall.jsm:4347:7
+1595866606408	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+makeAddonVisible@XPIDatabase.jsm:2348:10
+addToDatabase@XPIDatabase.jsm:2275:12
+install@XPIInstall.jsm:4320:27
+_activateAddon@XPIInstall.jsm:4347:7
+1595866606409	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+addToDatabase@XPIDatabase.jsm:2278:10
+install@XPIInstall.jsm:4320:27
+_activateAddon@XPIInstall.jsm:4347:7
+1595866606459	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+makeAddonVisible@XPIDatabase.jsm:2348:10
+addToDatabase@XPIDatabase.jsm:2275:12
+install@XPIInstall.jsm:4320:27
+_activateAddon@XPIInstall.jsm:4347:7
+1595866606460	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+addToDatabase@XPIDatabase.jsm:2278:10
+install@XPIInstall.jsm:4320:27
+_activateAddon@XPIInstall.jsm:4347:7
+1595866606544	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+makeAddonVisible@XPIDatabase.jsm:2348:10
+addToDatabase@XPIDatabase.jsm:2275:12
+install@XPIInstall.jsm:4320:27
+_activateAddon@XPIInstall.jsm:4347:7
+1595866606544	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+addToDatabase@XPIDatabase.jsm:2278:10
+install@XPIInstall.jsm:4320:27
+_activateAddon@XPIInstall.jsm:4347:7
+1595866606571	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+makeAddonVisible@XPIDatabase.jsm:2348:10
+addToDatabase@XPIDatabase.jsm:2275:12
+install@XPIInstall.jsm:4320:27
+_activateAddon@XPIInstall.jsm:4347:7
+1595866606571	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+addToDatabase@XPIDatabase.jsm:2278:10
+install@XPIInstall.jsm:4320:27
+_activateAddon@XPIInstall.jsm:4347:7
+1595866606670	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+makeAddonVisible@XPIDatabase.jsm:2348:10
+addToDatabase@XPIDatabase.jsm:2275:12
+install@XPIInstall.jsm:4320:27
+_activateAddon@XPIInstall.jsm:4347:7
+1595866606671	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+addToDatabase@XPIDatabase.jsm:2278:10
+install@XPIInstall.jsm:4320:27
+_activateAddon@XPIInstall.jsm:4347:7
+1595866606755	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+makeAddonVisible@XPIDatabase.jsm:2348:10
+addToDatabase@XPIDatabase.jsm:2275:12
+install@XPIInstall.jsm:4320:27
+_activateAddon@XPIInstall.jsm:4347:7
+1595866606755	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+addToDatabase@XPIDatabase.jsm:2278:10
+install@XPIInstall.jsm:4320:27
+_activateAddon@XPIInstall.jsm:4347:7
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 681))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595866621840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofilev252db"
+1595866622369	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595866623487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595866623487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595866623487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595866623487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595866627532	Marionette	INFO	Listening on port 55096
+1595866627915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595866658271	Marionette	INFO	Stopped listening on port 55096
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13148, Gecko_IOThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+1595866697462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileMTKGo0"
+1595866697947	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595866698850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595866698850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595866698851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595866698851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595866701529	Marionette	INFO	Listening on port 53521
+1595866701769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595867030913	Marionette	INFO	Stopped listening on port 53521
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+on.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595867002052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595867002053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595867002053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595867002053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595867005324	Marionette	FATAL	Remote protocol server failed to start: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIServerSocket.asyncListen]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: chrome://marionette/content/server.js :: set acceptConnections :: line 99"  data: no] Stack trace: set acceptConnections()@server.js:99
+start()@server.js:124
+init/<()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/marionette.js:500
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:173:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:67:5
+observe@resource://gre/modules/AsyncShutdown.jsm:551:16
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595867017149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileCg9Dcy"
+1595867017591	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595867018402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595867018402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595867018402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595867018402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595867020145	Marionette	INFO	Listening on port 53659
+1595867021805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595867541755	Marionette	INFO	Stopped listening on port 53659
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8776, Gecko_IOThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+1595869039106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofile2S4aYf"
+1595869039599	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595869040602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595869040603	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595869040603	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595869040603	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595869049989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofile5CmRuV"
+1595869050481	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595869051227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595869051227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595869051227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595869051228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595869053684	Marionette	INFO	Listening on port 54625
+1595869053836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595869822846	Marionette	INFO	Stopped listening on port 54625
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\farhad\\AppData\\Local\\Temp\\rust_mozprofilepQghxH"
+1595869752957	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595869753965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595869753965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595869753965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595869753965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595869757566	Marionette	INFO	Listening on port 55317
+1595869757940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595869823324	Marionette	INFO	Stopped listening on port 55317
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13920, Gecko_IOThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+1595869832192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofilemxXLz9"
+1595869833990	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595869834873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595869834873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595869834873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595869834873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595869838014	Marionette	INFO	Listening on port 55413
+1595869838205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595870481955	Marionette	INFO	Stopped listening on port 55413
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595870502935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofilePUS1YJ"
+1595870503399	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595870504453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595870504453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595870504453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595870504453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595870507510	Marionette	INFO	Listening on port 55590
+1595870507841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595870550282	Marionette	INFO	Stopped listening on port 55590
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595870585118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileZ6SlfV"
+1595870585666	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595870586539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595870586539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595870586539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595870586539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595870589542	Marionette	INFO	Listening on port 55689
+1595870590028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1595870865749	Marionette	INFO	Stopped listening on port 55689
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596028758344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileZueQbf"
+1596028762004	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596028762934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596028762934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596028762934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596028762934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596028770702	Marionette	INFO	Listening on port 50242
+1596028770971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1596029245926	Marionette	INFO	Stopped listening on port 50242
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596029272368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileMi4h60"
+1596029272922	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596029273844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596029273844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596029273844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596029273844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596029276834	Marionette	INFO	Listening on port 50361
+1596029277272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596029413386	Marionette	INFO	Stopped listening on port 50361
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596029437305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileLgbZE1"
+1596029437924	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596029438678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596029438678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596029438678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596029438678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596029441741	Marionette	INFO	Listening on port 50441
+1596029442220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596029506662	Marionette	INFO	Stopped listening on port 50441
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596032095273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileHgw3xc"
+1596032095954	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596032097047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596032097047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596032097048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596032097048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596032099846	Marionette	INFO	Listening on port 50704
+1596032100190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 13080, Chrome_ChildThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+1596032136661	Marionette	INFO	Stopped listening on port 50704
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596032192123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileg7jaKN"
+1596032192570	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596032193469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596032193469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596032193470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596032193470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596032196009	Marionette	INFO	Listening on port 50791
+1596032196433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1596032282366	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1596032988601	Marionette	INFO	Stopped listening on port 50791
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596033002889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileyCUH21"
+1596033003495	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596033004408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596033004408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596033004409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596033004409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596033007543	Marionette	INFO	Listening on port 50933
+1596033007899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1596033211392	Marionette	INFO	Stopped listening on port 50933
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596033228516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileDrXsEI"
+1596033228992	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596033229873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596033229873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596033229873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596033229873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596033232691	Marionette	INFO	Listening on port 51033
+1596033232820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596033259546	Marionette	INFO	Stopped listening on port 51033
+1596035895871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileeM7LPg"
+1596035896436	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596035897290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596035897290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596035897290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596035897291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596035899823	Marionette	INFO	Listening on port 57342
+1596035900195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1596036099148	Marionette	INFO	Stopped listening on port 57342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596036102199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofiley2NfRq"
+1596036102778	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596036103543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596036103543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596036103544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596036103544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596036106522	Marionette	INFO	Listening on port 57447
+1596036106620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1596036538409	Marionette	INFO	Stopped listening on port 57447
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\farhad\\AppData\\Local\\Temp\\rust_mozprofilemRUJmq"
+1596036530241	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596036531277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596036531277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596036531278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596036531278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596036533166	Marionette	INFO	Listening on port 57983
+1596036533293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1596036624768	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1596037808803	Marionette	INFO	Stopped listening on port 57983
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596037826214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileSqwvVu"
+1596037828295	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596037829272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596037829272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596037829272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596037829272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596037831027	Marionette	INFO	Listening on port 59606
+1596037832468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1596038095713	Marionette	INFO	Stopped listening on port 59606
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596038136565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileALSqXB"
+1596038137473	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596038138317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596038138317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596038138317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596038138317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596038140893	Marionette	INFO	Listening on port 59971
+1596038140979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1596039090643	Marionette	INFO	Stopped listening on port 59971
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\farhad\\AppData\\Local\\Temp\\rust_mozprofileFRD2mY"
+1596039083274	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596039084246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596039084246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596039084246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596039084247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596039088838	Marionette	INFO	Listening on port 60662
+1596039089096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1596039335211	Marionette	INFO	Stopped listening on port 60662
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596039343360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofile341vtS"
+1596039345595	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596039346484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596039346484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596039346485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596039346485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596039349086	Marionette	INFO	Listening on port 61148
+1596039349371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1596039888340	Marionette	INFO	Stopped listening on port 61148
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\farhad\\AppData\\Local\\Temp\\rust_mozprofileGhWy1r"
+1596039877267	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596039877979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596039877979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596039877979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596039877979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596039879671	Marionette	INFO	Listening on port 61487
+1596039880153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 921: Error: Connection is not open.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1596039914570	Marionette	INFO	Stopped listening on port 61487
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB80015,name=PWindowGlobal::Msg_Destroy) Channel closing: too late to send/recv, messages will be lost
+
+1596039988955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofilebIJ147"
+1596039990644	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596039991338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596039991339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596039991339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596039991339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596040038544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofile5Kv7yA"
+1596040039019	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596040039873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596040039873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596040039873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596040039873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596040042610	Marionette	INFO	Listening on port 63697
+1596040043035	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1596040468502	Marionette	INFO	Stopped listening on port 63697
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\farhad\\AppData\\Local\\Temp\\rust_mozprofileGKjDXv"
+1596040322477	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596040323315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596040323315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596040323315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596040323316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596040326530	Marionette	INFO	Listening on port 63975
+1596040326931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1596040421170	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597347085018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofile6CY60b"
+1597347089428	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1597347091049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597347091049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597347091049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597347091049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597347101051	Marionette	INFO	Listening on port 50127
+1597347101339	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4440, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1597375914945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofileMPeKM7"
+1597375931747	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1597375934442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597375934442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597375934442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597375934443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599017033870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\farhad\\AppData\\Local\\Temp\\rust_mozprofilePb1AAs"
+1599017038542	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1599017039701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599017039701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599017039701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599017039701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599017047010	Marionette	INFO	Listening on port 56530
+1599017047686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
